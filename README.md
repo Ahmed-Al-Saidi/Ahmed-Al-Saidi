@@ -9,7 +9,7 @@
 
 ### Tech Stack
 - **C++**
-- **Python**1
+- **Python**
 - **PHP**
 - **JAVASCRIPT**
 - **HTML5**
