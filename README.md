@@ -1,21 +1,22 @@
-
 # Hi 👋, I'm Ahmed Al-Saidi
 
-**Web Developer • Building e-commerce platforms • PHP & Frontend**
+**Computer Science Student • Building production-ready systems with C++, Python & Web Technologies**
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ahmed-Al-Saidi&color=blue)
 
 ---
 
 ### Tech Stack
+
 - **C++**
-- **Python**
+- **PYTHON**
 - **PHP**
 - **JAVASCRIPT**
 - **HTML5**
 - **CSS3**
 - **GIT**
 - **MYSQL**
+- **LINUX**
 
 ---
 
@@ -24,10 +25,15 @@
 ---
 
 ### Phone Store 🛒
-E-commerce platform for mobile phones — products, cart, checkout.
+Production-ready e-commerce platform built with C++ — products, cart, checkout system.
+---
+### School Management System 🏫
+OOP-based school management system built with Python — students, teachers, grades, attendance.
 
-### Small Mall 🛍️
+---
+
+### Small_Mall 🛍️
 Online shopping mall website built with PHP.
-
+---
 ### Samsung Website Clone 📱
-Frontend clone of Samsung's official website — responsive design.
+Responsive frontend clone with modern UI/UX practices (HTML5, CSS3, JavaScript).
