@@ -26,7 +26,7 @@
 ### Phone Store 🛒
 E-commerce platform for mobile phones — products, cart, checkout.
 
-### 2dec Mall 🛍️
+### Small_Mall_shop 🛍️
 Online shopping mall website built with PHP.
 
 ### Samsung Website Clone 📱
